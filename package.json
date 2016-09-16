@@ -10,6 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.2.3",
-    "express": "^4.14.0"
+    "classnames": "^2.2.5",
+    "express": "^4.14.0",
+    "immutability-helper": "^2.0.0",
+    "normalize.css": "^4.2.0",
+    "react": "^15.3.1",
+    "react-addons-css-transition-group": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-toolbox": "^1.2.1"
   }
 }
